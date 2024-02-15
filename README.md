@@ -30,3 +30,11 @@ Explore and Analyze: Interact with the dashboard to explore insights and trends.
 
 Customize: Tailor visualizations and metrics based on your preferences and business requirements.
 
+**Visuals**
+![image](https://github.com/chaitsbox112/Sales-Data-Analysis-Power-BI/assets/158270772/48e092ef-6162-4a0b-b6f1-077c4bf217b5)
+
+
+**Model**
+![image](https://github.com/chaitsbox112/Sales-Data-Analysis-Power-BI/assets/158270772/fb2e0376-f8af-49ef-9e36-2511ea97e190)
+
+
